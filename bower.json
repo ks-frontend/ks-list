@@ -1,11 +1,11 @@
 {
-  "name": "ks-lists",
-  "version": "0.0.1",
+  "name": "ks-list",
+  "version": "0.0.0",
   "homepage": "https://github.com/ks-frontend/ks-list.git",
   "authors": [
     "Khalid Sookia <khalidsookia@gmail.com>"
   ],
-  "description": "JBasic styling of lists to extend from",
+  "description": "Basic styling of lists to extend from",
   "main": "lib/list.scss",
   "keywords": [
     "list, styling, css, jquery, ks-list, ks-frontend-framework"
