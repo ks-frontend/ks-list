@@ -7,26 +7,26 @@ This library is mostly a normalize for lists which ever the type of list. Plugin
 
 The following is a few type of list it can handle:
 
------------------------------------------------------------------------------------
-<ul class="list">
-    <li></li>
-</ul>
+---
+    <ul class="list">
+        <li></li>
+    </ul>
 
-<ol class="list">
-    <li></li>
-</ol>
------------------------------------------------------------------------------------
+    <ol class="list">
+        <li></li>
+    </ol>
+---
 
 You can define if the list should be block type or inline by adding the class inline or block.
------------------------------------------------------------------------------------
-<div class="list inline">
-    <div></div>
-</div>
+---
+    <div class="list inline">
+        <div></div>
+    </div>
 
-<div class="list block">
-    <span></span>
-</div>
------------------------------------------------------------------------------------
+    <div class="list block">
+        <span></span>
+    </div>
+---
 
 # Installation with bower
 
