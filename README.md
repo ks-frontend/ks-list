@@ -7,7 +7,7 @@ This library is mostly a normalize for lists which ever the type of list. Plugin
 
 The following is a few type of list it can handle:
 
----html
+-----------------------------------------------------------------------------------
 <ul class="list">
     <li></li>
 </ul>
@@ -15,10 +15,10 @@ The following is a few type of list it can handle:
 <ol class="list">
     <li></li>
 </ol>
----
+-----------------------------------------------------------------------------------
 
 You can define if the list should be block type or inline by adding the class inline or block.
----html
+-----------------------------------------------------------------------------------
 <div class="list inline">
     <div></div>
 </div>
@@ -26,7 +26,7 @@ You can define if the list should be block type or inline by adding the class in
 <div class="list block">
     <span></span>
 </div>
----
+-----------------------------------------------------------------------------------
 
 # Installation with bower
 
