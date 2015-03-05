@@ -1,6 +1,6 @@
 {
   "name": "ks-list",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "homepage": "https://github.com/ks-frontend/ks-list.git",
   "authors": [
     "Khalid Sookia <khalidsookia@gmail.com>"
@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "ks-core": "~0.0.0"
+    "ks-core": "~0.0.1"
   },
   "devDependencies": {
   }
