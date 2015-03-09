@@ -58,7 +58,7 @@ module.exports = function(grunt) {
         concat: {
             options: {
                 banner: '<%= banner %>',
-                separator: '\n//-------------------\n',
+                separator: '\n',
                 stripBanners: true
             },
             css: {

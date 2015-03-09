@@ -33,3 +33,7 @@ You can define if the list should be block type or inline by adding the class in
 ```console
 $ bower install ks-list
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-lsit.svg)](http://badge.fury.io/bo/ks-list)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
