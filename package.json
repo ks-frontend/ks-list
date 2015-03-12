@@ -1,6 +1,6 @@
 {
   "name": "ks-list",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Basic styling of lists to extend from. This library is part of iknsa-frontend-framework but can be used independently",
   "main": "templates/list.html",
   "scripts": {
